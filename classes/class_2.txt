@@ -1,0 +1,12 @@
+Class: CulinarySchool
+
+FoodSpecialty (string)
+RequiredAge (integer)
+ClassCapacity (integer)
+FullTime (boolean)
+
+Methods
+CalculateIngredients needed (Multiply Measurements by Serving)
+AddFoodScore (Add All Final Judge Scores)
+CalculateTuitionCost (AddUp All Expenses)
+ChooseSpecialty (Choose FoodType From Course Array)
