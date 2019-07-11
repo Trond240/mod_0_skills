@@ -1,7 +1,8 @@
-1 Becoming a Turing Student
-1.1 Apply
-    1.1.1 Go to Turing website
-      1.1.1.1 Choose front end or back end
+1- Becoming a Turing Student
+
+1.1- Apply
+    1.1.1- Go to Turing website
+      1.1.1.1- Choose front end or back end
       1.1.1.1.1 Take required test for interview
       1.1.1.1.1.1 Receive email with results
       1.1.1.1.1.1.1 schedule interview
