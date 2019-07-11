@@ -1,0 +1,12 @@
+Class: University
+
+Courses (string)
+Grade (integer)
+SchoolCapacity (integer)
+Coed (boolean)
+
+Methods
+CalculateCapacity (subtracts CurrentCapacity by TotalCapacity)
+AddGrade (Divide FinalScore by MaxPoints)
+Coed (True)
+FindCourse (Choose Course From Course Array)
