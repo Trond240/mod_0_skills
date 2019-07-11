@@ -1,0 +1,14 @@
+Object: CookStreet
+
+Attributes:
+FoodType: "Italian"
+SchoolHours: "8"
+KnifeBrand: "Shogun"
+Coed: "True"
+
+
+Methods:
+CalculateIngredients: 1 + 2 + 3 = 6 / 6 = 1
+ChooseChefCoat: "Black, White, Grey"
+CalculateTotalTuition: 20000 + 300 + 25 = 20325
+CalculateClassSize: 30 - 28 = 2
