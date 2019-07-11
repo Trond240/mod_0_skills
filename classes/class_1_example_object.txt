@@ -1,12 +1,14 @@
-Class: University
+Object: CU Boulder
 
-Courses (string)
-Grade (integer)
-SchoolCapacity (integer)
-Coed (boolean)
+Attributes:
+Course: "Math"
+Grade: "Post HighSchool"
+SchoolCapacity: "2500"
+Coed: "True"
 
-Methods
-CalculateCapacity (subtracts CurrentCapacity by TotalCapacity)
-AddGrade (Divide FinalScore by MaxPoints)
-Coed (True)
-FindCourse (Choose Course From Course Array)
+
+Methods:
+CalculateClassGrade: 90 / 100 = .9
+ChooseCourse: "Math, English, Science"
+CalculateGradePointAverage: 45 / 13 = 3.46
+CalculateSchoolCapacity: 2500 - 2350 = 150
