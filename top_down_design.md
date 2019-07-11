@@ -1,0 +1,35 @@
+1 Becoming a Turing Student
+  -1.1 Apply
+    -1.1.1 Go to Turing website
+      -1.1.1.1 Choose front end or back end
+      -1.1.1.1.1 Take required test for interview
+      -1.1.1.1.1.1 Receive email with results
+      -1.1.1.1.1.1.1 schedule interview
+      -1.1.1.1.1.1.1.1 Attend interview
+      -1.1.1.1.1.1.1.1.1 receive acceptance letter
+      -1.1.1.1.1.1.1.1.1.1 Choose Cohort
+      -1.1.1.1.1.1.1.1.1.1.1 Choose Mod 0 class
+  -1.2 Research
+    -1.2.1 Google coding schools
+      -1.2.1.1 create list of coding school
+    -1.2.2 Google information on coding
+      -1.2.2.1 find out if you actually like coding
+    -1.2.3 Google Skill demand in the work force
+  -1.3 Prep
+    -1.3.1 Study code
+      -1.3.1.1 find resources
+      -1.3.1.1.1 find alumni to ask questions
+      -1.3.1.1.1.1 find mentor
+    -1.3.2 Attend Mod 0
+      -1.3.2.1 attend all 6 online sessions
+      -1.3.2.1.1 finish all reading
+      -1.3.2.1.1.1 complete all practice assignments
+      -1.3.2.1.1.1.1 Take mod 0 final test
+   -1.4 Living
+     -1.4.1 Look for best loan options
+     -1.4.1.1 apply for loan
+     -1.4.1.1.1 family support
+   -1.4.2 finances
+     -1.4.2.1 create budget for 9 months
+     -1.4.2.1.1 pay rent for 9 months in advance
+     
