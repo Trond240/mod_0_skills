@@ -4,9 +4,13 @@ FoodSpecialty (string)
 RequiredAge (integer)
 ClassCapacity (integer)
 FullTime (boolean)
+Ingredient (string)
+IngredientMeasurement (float)
+TeacherFoodScore (integer)
+
 
 Methods
-CalculateIngredients needed (Multiply Measurements by Serving)
-AddFoodScore (Add All Final Judge Scores)
-CalculateTuitionCost (AddUp All Expenses)
-ChooseSpecialty (Choose FoodType From Course Array)
+CalculateIngredients needed (Multiply IngredientMeasurements by Ingredients)
+AddFoodScore (Add All Final TeacherFoodScores)
+IsFullTime (check value of attribute FullTime)
+GetAge (Return AgeAttribute)
