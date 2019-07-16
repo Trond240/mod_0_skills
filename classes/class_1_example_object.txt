@@ -2,13 +2,15 @@ Object: CU Boulder
 
 Attributes:
 Course: "Math"
-Grade: "Post HighSchool"
-SchoolCapacity: "2500"
-Coed: "True"
+ClassScore: 90
+MaxPoints: 100
+SchoolCapacity: 2500
+CurrentCapacity: 2350
+Coed: true
 
 
 Methods:
-CalculateClassGrade: 90 / 100 = .9
-ChooseCourse: "Math, English, Science"
-CalculateGradePointAverage: 45 / 13 = 3.46
+CalculateClassGrade: 90 / 100 = .9 = A
+ChooseCourse: "Math"
 CalculateSchoolCapacity: 2500 - 2350 = 150
+IsCoed: true
