@@ -1,14 +1,16 @@
 Object: CookStreet
 
 Attributes:
-FoodType: "Italian"
-SchoolHours: "8"
-KnifeBrand: "Shogun"
-Coed: "True"
-
+Ingredients: "Salt"
+RequiredAge: 18
+ClassCapacity: 25
+FullTime: "True"
+CurrentClassCapacity: 20
+TeacherFoodScore: 8
+MaxFoodScore: 10
 
 Methods:
-CalculateIngredients: 1 + 2 + 3 = 6 / 6 = 1
-ChooseChefCoat: "Black, White, Grey"
-CalculateTotalTuition: 20000 + 300 + 25 = 20325
-CalculateClassSize: 30 - 28 = 2
+AddTeacherScore: 8 + 8 + 10 = 36
+IsIngredients: "pepper"
+IsFullTime: false
+CalculateClassSize: 20 - 25 = 5
