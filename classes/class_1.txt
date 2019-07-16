@@ -1,12 +1,17 @@
 Class: University
 
-Courses (string)
+Attributes:
+Course (string)
 Grade (integer)
 SchoolCapacity (integer)
-Coed (boolean)
+CurrentCapacity (integer)
+CourseFee (integer)
+TotalTuition (integer)
+MaxPoints (integer)
+FinalScore (integer)
 
 Methods
-CalculateCapacity (subtracts CurrentCapacity by TotalCapacity)
-AddGrade (Divide FinalScore by MaxPoints)
-CalculateCost PerClass (Add TotalTuition Divide by Number of Classes) )
-FindCourse (Choose Course From Course Array)
+CalculateCapacity (subtract CurrentCapacity by TotalCapacity)
+CalculateGrade (Divide FinalScore by MaxPoints)
+CalculateCostPerClass (Add TotalTuition Divide by Number of Courses)
+AddCourse (Choose Course From Course Array)
