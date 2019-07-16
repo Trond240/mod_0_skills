@@ -8,5 +8,5 @@ Coed (boolean)
 Methods
 CalculateCapacity (subtracts CurrentCapacity by TotalCapacity)
 AddGrade (Divide FinalScore by MaxPoints)
-Coed (True)
+CalculateCost PerClass (Add TotalTuition Divide by Number of Classes) )
 FindCourse (Choose Course From Course Array)
